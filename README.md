@@ -1,4 +1,4 @@
-# ALGO-9.TUGAS-3
+# ALGO-9.TUGAS-4
 
 
 ## CODINGAN LENGKAP
@@ -16,4 +16,4 @@
     return 0;
     }
 ## HASIL PROGRAM
-![img](https://github.com/dindapuspitadewi/ALGO-9.TUGAS-3/blob/master/tugas%204.png?raw=true)
+![img](https://github.com/dindapuspitadewi/ALGO-9.TUGAS-4/blob/master/tugas%204.png?raw=true)
